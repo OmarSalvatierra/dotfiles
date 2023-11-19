@@ -1,0 +1,39 @@
+window_opacity: 0.7
+
+colors:
+  primary:
+    background: '#000000'  # Cambiado a Negro oscuro
+    foreground: '#FFFFFF'  # Cambiado a Blanco para el texto principal
+    green:      '#00695C'  # Cambiado el verde principal a '#00695C'
+
+  normal:
+    black:   '#000000'     # Cambiado a Negro para texto normal
+    red:     '#808080'     # Cambiado a Gris oscuro en lugar de rojo
+    green:   '#33FF33'     # Cambiado de nuevo al Verde original
+    yellow:  '#CCCCCC'     # Cambiado a Gris medio en lugar de amarillo
+    blue:    '#CCCCCC'     # Cambiado a Gris claro en lugar de azul
+    magenta: '#FFFFFF'     # Cambiado a Blanco para magenta
+    cyan:    '#CCCCCC'     # Cambiado a Gris claro para cian
+    white:   '#FFFFFF'     # Cambiado a Blanco para texto brillante
+
+  bright:
+    black:   '#333333'     # Gris muy oscuro para negro brillante
+    red:     '#777777'     # Gris en lugar de rojo brillante
+    green:   '#55FF55'     # Cambiado a Verde brillante más claro
+    yellow:  '#CCCCCC'     # Cambiado a Gris claro en lugar de amarillo brillante
+    blue:    '#CCCCCC'     # Cambiado a Gris medio para azul brillante
+    magenta: '#CCCCCC'     # Cambiado a Gris claro para magenta brillante
+    cyan:    '#CCCCCC'     # Cambiado a Gris medio para cian brillante
+    white:   '#FFFFFF'     # Blanco puro para blanco brillante
+
+font:
+  normal:
+    family: UbuntuMono Nerd Font
+    style: Regular
+  size: 12
+
+window:
+  padding:
+    x: 2
+  opacity: 0.7  # Cambiado a la opacidad deseada (0.7)
+
